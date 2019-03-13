@@ -18,7 +18,7 @@ public class Phone {
     @NonNull
 	@Size(min=8,max=10)
     private String number;
-    
+
     @NonNull
-    private PhoneType phoneType;
+    private PhoneType type;
 }

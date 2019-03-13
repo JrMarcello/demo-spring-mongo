@@ -39,4 +39,5 @@ public class MemberEntity {
 
     @NonNull
     private List<Phone> phones;
+    private Boolean active = true;
 }
