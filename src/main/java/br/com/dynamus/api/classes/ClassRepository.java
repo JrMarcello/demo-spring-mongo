@@ -1,4 +1,4 @@
-package br.com.dynamus.api.bsclass;
+package br.com.dynamus.api.classes;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
