@@ -5,6 +5,6 @@ import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 
 @RepositoryRestResource(collectionResourceRel = "members", path = "member")
 public interface MemberRepository extends MongoRepository<MemberEntity, String> {
-    //MemberEntity findBy_id(ObjectId _id);
-    //MemberEntity findByCpf(String cpf);
+    //Entity findBy_id(ObjectId _id);
+    //Entity findByCpf(String cpf);
 }
