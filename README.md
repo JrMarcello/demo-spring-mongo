@@ -1,0 +1,3 @@
+# dynamus
+
+Church manager project
